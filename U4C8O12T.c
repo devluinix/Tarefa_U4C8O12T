@@ -137,7 +137,7 @@ int main()
     for (int x = quadrado_x; x < quadrado_x + 8; x++)
       for (int y = quadrado_y; y < quadrado_y + 8; y++)
         ssd1306_pixel(&ssd, x, 63 - y, true);
-    
+
     if (estilo_borda == 0)
     {
       ssd1306_line(&ssd, 0, 63, 127, 63, true);
