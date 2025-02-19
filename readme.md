@@ -1,4 +1,4 @@
-# Controle de Matriz de LEDs 5x5 WS2812 com Interação Serial e Botões
+# Controle de LEDs WS2812 com Interação Serial e Botões
 
 ## Descrição do Projeto
 
