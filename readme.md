@@ -13,7 +13,7 @@ Controle de LEDs WS2812 usando o microcontrolador RP2040 (BitDogLab). A interaç
 
 ## DEMONSTRAÇÃO
 
-[Vídeo de Demonstração](https://youtube.com/shorts/9kd9Mg821c4)
+[Vídeo de Demonstração](https://youtube.com/shorts/gjlzXJP4lAk)
 
 ## Funcionalidades
 
